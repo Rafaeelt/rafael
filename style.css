@@ -1,6 +1,28 @@
+body{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+
 section{
     text-align: center;
     background-color: rgb(127, 182, 255);
     color: azure;
+    display: flex;
 }
 
+.texto{
+    flex: 1;
+    align-self: center;
+   padding: 2em;
+}
+
+/* .imagem{
+    width: 400px;
+} */
+
+.imagem img{
+    height: 400px;
+    padding: 40px;
+    margin: 0 auto;
+}
