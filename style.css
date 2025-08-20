@@ -27,15 +27,5 @@ section{
     margin: 0 auto;
 }
 
-body{
-    font-size: 15px;
-    line-height: 1;
-}
-
-section{
-    text-align: center;
-    background-color: rgb(127, 182, 255);
-    color: azure;
-    display: flex;
 }
 
